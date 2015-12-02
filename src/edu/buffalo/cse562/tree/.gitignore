@@ -1,0 +1,15 @@
+/OperatorInterface.class
+/Operator.class
+/ProjectOperator.class
+/QueryTree.class
+/RelationOperator.class
+/SelectOperator.class
+/CartesianOperator.class
+/GroupByOperator.class
+/JoinOperator.class
+/SelectionOperator.class
+/UnionOperator.class
+/EvaluateQuery.class
+/HavingOperator.class
+/OrderByOperator$ChainedTupleComparator.class
+/OrderByOperator.class
